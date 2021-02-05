@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "582ce6a011671f14533d79579cb01a81",
+    "content-hash": "25c6c5c08ed44971799b3a7ea7a785d5",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -8272,16 +8272,16 @@
         },
         {
             "name": "summerblue/generator",
-            "version": "7.0.0",
+            "version": "8.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/summerblue/generator.git",
-                "reference": "4b503ed760ddbe96e849469975458d97503e0378"
+                "reference": "15565c6ca4e67d3bcba828b6d79a36f5f2c9b644"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/summerblue/generator/zipball/4b503ed760ddbe96e849469975458d97503e0378",
-                "reference": "4b503ed760ddbe96e849469975458d97503e0378",
+                "url": "https://api.github.com/repos/summerblue/generator/zipball/15565c6ca4e67d3bcba828b6d79a36f5f2c9b644",
+                "reference": "15565c6ca4e67d3bcba828b6d79a36f5f2c9b644",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -8294,8 +8294,8 @@
                 "php": ">=7.0.0"
             },
             "require-dev": {
-                "laravel/laravel": "7.*",
-                "phpunit/phpunit": "^8.0"
+                "laravel/laravel": "8.*",
+                "phpunit/phpunit": "^9.3.3"
             },
             "type": "library",
             "extra": {
@@ -8333,9 +8333,9 @@
             ],
             "support": {
                 "issues": "https://github.com/summerblue/generator/issues",
-                "source": "https://github.com/summerblue/generator/tree/master"
+                "source": "https://github.com/summerblue/generator/tree/8.0.2"
             },
-            "time": "2020-07-31T07:37:07+00:00"
+            "time": "2020-12-18T08:27:44+00:00"
         },
         {
             "name": "theseer/tokenizer",
